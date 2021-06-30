@@ -1,0 +1,19 @@
+{
+  "name": "fronted",
+  "version": "1.0.0",
+  "description": "just another reop just another day...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://sattaw8@github.com/sattaw8/hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sattaw8/hello-world/issues"
+  },
+  "homepage": "https://github.com/sattaw8/hello-world#readme"
+}
